@@ -1,2 +1,2 @@
-# Guardie-e-Ladri
- Un piccolo gioco in javascript di guardie e ladri
+# Guardie e Ladri
+ "Guardie e Ladri" è un piccolo gioco in javascript, fatto come esercizio per allenarsi e scoprire di più sulle funzioni javascript. Nel gioco si interpreta la guardia e tramite le direzioni(nord,sud,est,ovest) si cerca di acchiappare il ladro che si sposta randomicamente di 50px verso una di quelle direzioni. Ogni vittoria, il gioco si resetta diminuendo di 2 i tentativi disponibili rispetto all'inizio della giocata. 
